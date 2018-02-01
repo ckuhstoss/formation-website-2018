@@ -1,21 +1,3 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Marketplace
-Explore
- @ckuhstoss
- Sign out
- Watch 1
-  Star 0  Fork 0 ckuhstoss/formation-website-2018
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights  Settings
-Branch: master Find file Copy pathformation-website-2018/master
-e816208  35 seconds ago
-@ckuhstoss ckuhstoss Master File
-1 contributor
-RawBlameHistory     
-1023 lines (998 sloc)  44.9 KB
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -243,92 +225,6 @@ RawBlameHistory
         venenatis aliquam enim sem pretium vitae posuere ac mattis vitae arcu integer</p>
       <span class="sepceby"> MISSION STATMENT BY : <strong>JOHN SMITH</strong><br>
       - CEO & CO-FOUNDER </span> </div>
-    <div class="row">
-      <div class="col-md-4">
-        <div class="about_item">
-          <h3 class="about_title hilight">WHO WE ARE</h3>
-          <div class="who_weare">
-            <div class="whbanner carousel slide" id="whBanner"> 
-              <!-- Carousel items -->
-              <div class="carousel-inner">
-                <div class="item active"> <img src="http://placehold.it/768x498" alt=""> </div>
-                <!--/item-->
-                <div class="item"> <img src="http://placehold.it/768x498" alt=""> </div>
-                <!--/item-->
-                <div class="item"> <img src="http://placehold.it/768x498" alt=""> </div>
-                <!--/item--> 
-              </div>
-              <!--/carousel-inner--> 
-              <a class="left-control" href="#whBanner" data-slide="prev"><i class="fa fa-angle-left"></i></a> <a class="right-control" href="#whBanner" data-slide="next"><i class="fa  fa-angle-right"></i></a> </div>
-            <p>Fusce velit est, blandit quis, scelerisque nec, faucibus quis ips Fusce in nisl ut elit ultrices hendrerit.</p>
-            <p>Suspendisse lobortis ante accumsan est. Vivamus scelerisqu accumsan dolor.Aenean diam felis, pulvinar at, pellentes qued sed aliquet vel tellus.</p>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-4">
-        <div class="choos_us">
-          <h3  class="about_title">WHY CHOOSE US</h3>
-          <div class="whchoise">
-            <p>Class aptent taciti sociosqu ad litora torquent per conubia nos aper inceptos himenaeos. Vivamus eget risus. </p>
-            <ul class="timeline">
-              <li>
-                <div class="timeline-badge">27</div>
-                <div class="timeline-panel">
-                  <h4>Clients <br>
-                    Worldwide</h4>
-                </div>
-              </li>
-              <li class="timeline-inverted">
-                <div class="timeline-badge">362</div>
-                <div class="timeline-panel">
-                  <h4 >Projects <br>
-                    Finished</h4>
-                </div>
-              </li>
-              <li>
-                <div class="timeline-badge">14</div>
-                <div class="timeline-panel">
-                  <h4>Awards <br>
-                    Won</h4>
-                </div>
-              </li>
-              <li class="timeline-inverted">
-                <div class="timeline-badge">10K</div>
-                <div class="timeline-panel">
-                  <h4 >Hours Of <br>
-                    Work Done</h4>
-                </div>
-              </li>
-            </ul>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-4">
-        <div class="the_process">
-          <h3 class="about_title">THE PROCESS</h3>
-          <ul class="process">
-            <li>
-              <div class="process-title">
-                <div class="process-badge"><i class="fa fa-magic"></i></div>
-                Brainstorming & Planning</div>
-              <p>Semper eget Donec eget tellus. Maecenas non dolo acnunc malesuada elementum. Suspendisse elit</p>
-            </li>
-            <li class="inverted">
-              <div class="process-title">
-                <div class="process-badge"><i class="fa fa-coffee"></i></div>
-                Brainstorming & Planning</div>
-              <p>Semper eget Donec eget tellus. Maecenas non dolo acnunc malesuada elementum. Suspendisse elit</p>
-            </li>
-            <li>
-              <div class="process-title">
-                <div class="process-badge"><i class="fa fa-rocket"></i></div>
-                Brainstorming & Planning</div>
-              <p>Semper eget Donec eget tellus. Maecenas non dolo acnunc malesuada elementum. Suspendisse elit</p>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </div>
   </div>
 </div>
 <!-- / about us close --> 
@@ -1038,15 +934,3 @@ RawBlameHistory
 </script>
 </body>
 </html>
-© 2018 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-API
-Training
-Shop
-Blog
-About
